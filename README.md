@@ -10,16 +10,16 @@ Drafted in Markdown and published at [juadocs.com/blog](https://www.juadocs.com/
 
 ### 2024
 
-- **[Why Docs-as-Code Matters for Developer Experience](2024-01-08-blog-post-why-docs-as-code-matters-for-developer-experience.md)**  
+- [Why Docs-as-Code Matters for Developer Experience](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-01-08-blog-post-why-docs-as-code-matters-for-developer-experience.md)
   *How adopting a docs-as-code workflow improves developer trust, reduces onboarding friction, and scales better with modern teams.*
 
-- **[Infrastructure-as-Code: Why It's Essential for Modern DevOps](2024-02-06-blog-post-infrastructure-as-code-why-its-essential-for-modern-devops.md)**  
+- [Infrastructure-as-Code: Why It's Essential for Modern DevOps](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-02-06-blog-post-infrastructure-as-code-why-its-essential-for-modern-devops.md)
   *A look into why codifying infrastructure is no longer optional for high-scale operations—and how tools like Ansible change the game.*
 
-- **[Pixels to Steering: How Computer Vision Powers Autonomous Vehicles](2024-03-07-blog-post-pixels-to-steering-how-computer-vision-powers-autonomous-vehicles.md)**  
+- [Pixels to Steering: How Computer Vision Powers Autonomous Vehicles](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-03-07-blog-post-pixels-to-steering-how-computer-vision-powers-autonomous-vehicles.md)
   *Breaking down the transformation from raw pixel data to real-time autonomous navigation using computer vision and machine learning.*
 
-- **[Build, Test, and Deploy Smarter: Inside the Developer Toolkit API](2024-04-16-build-test-and-deploy-smarter-inside-the-developer-toolkit-api.md)**  
+- [Documentation is Product: Why Startups Need Docs Early](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-04-21-documentation-is-product-why-startups-need-docs-early.md)
   *Behind the scenes of building a developer-focused API toolkit designed for clean CI/CD workflows, containerization, and extensibility.*
 
 - **[Documentation is Product: Why Startups Need Docs Early](2024-04-21-documentation-is-product-why-startups-need-docs-early.md)**  
