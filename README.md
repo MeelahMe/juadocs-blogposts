@@ -6,7 +6,7 @@ Drafted in Markdown and published at [juadocs.com/blog](https://www.juadocs.com/
 
 ---
 
-## ✍️ Blogposts
+## Blogposts
 
 ### 2024
 
