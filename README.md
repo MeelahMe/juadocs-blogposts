@@ -10,6 +10,9 @@ Drafted in Markdown and published at [juadocs.com/blog](https://www.juadocs.com/
 
 ### 2024
 
+- [Understanding Visual Perception Through Mathematical Modeling](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-11-20-understanding-visual-perception-through-mathematical-modeling.md)  
+  *Modeling how the brain generates geometric hallucinations using symmetry analysis, cortical dynamics, and perturbation theory.*
+
 - [Why Docs-as-Code Matters for Developer Experience](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-01-08-blog-post-why-docs-as-code-matters-for-developer-experience.md)
   *How adopting a docs-as-code workflow improves developer trust, reduces onboarding friction, and scales better with modern teams.*
 
