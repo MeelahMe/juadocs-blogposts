@@ -1,8 +1,10 @@
-# JuaDocs Blog Archive
+# JuaDocs Blogposts
 
-Welcome to the official archive of JuaDocs blog posts.  
-Each article explores topics in technical writing, developer experience, infrastructure, and AI-driven systems.  
-Drafted in Markdown and published at [juadocs.com/blog](https://www.juadocs.com/blog).
+**Technical blogposts on developer experience, infrastructure, AI systems, and the craft of technical writing.**
+
+This repository contains archived blogpost drafts published at [juadocs.com/blog](https://www.juadocs.com/blog).
+
+Each post is written in Markdown, focusing on technical writing, developer experience, infrastructure-as-code, and AI systems.
 
 ---
 
