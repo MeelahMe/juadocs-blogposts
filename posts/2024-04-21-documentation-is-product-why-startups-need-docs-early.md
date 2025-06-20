@@ -1,7 +1,3 @@
-# https://www.juadocs.com/blog/documentation-is-product-why-startups-need-docs-early
-
-Originally published at [JuaDocs Blog](https://www.juadocs.com/blog/documentation-is-product-why-startups-need-docs-early)
-
 ---
 
 
