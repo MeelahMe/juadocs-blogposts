@@ -1,6 +1,3 @@
----
-
-
 You’re moving fast. You’re building features, closing feedback loops, chasing product–market fit. Documentation feels like something you’ll fix later—after the demo, after the launch, after the next hire.
 
 Most startups treat docs as an afterthought.
