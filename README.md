@@ -27,9 +27,6 @@ Each post is written in Markdown, focusing on technical writing, developer exper
 - [Documentation is Product: Why Startups Need Docs Early](https://github.com/MeelahMe/juadocs-blogposts/blob/main/posts/2024-04-21-documentation-is-product-why-startups-need-docs-early.md)
   *Behind the scenes of building a developer-focused API toolkit designed for clean CI/CD workflows, containerization, and extensibility.*
 
-- **[Documentation is Product: Why Startups Need Docs Early](2024-04-21-documentation-is-product-why-startups-need-docs-early.md)**  
-  *Why early-stage startups should treat documentation as a product feature—and how great docs fuel faster adoption and user loyalty.*
-
 ---
 
 > _Maintained by [Jameelah Mercer](https://www.juadocs.com/) | Building clarity, trust, and technical excellence._
